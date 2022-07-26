@@ -8,7 +8,7 @@ import (
 
 const conferenceTickets int = 50
 
-var conferenceName = "Go Conference"
+var conferenceName = "ashizZz's Conference"
 var remainingTickets uint = 50
 var bookings = make([]UserData, 0)
 
