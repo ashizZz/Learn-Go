@@ -6,7 +6,7 @@ func main() {
 
 	const conferenceTickets int = 50
 	var remainingTickets uint = 50
-	conferenceName := "Go Conference"
+	conferenceName := "ashizZz's Conference"
 
 	fmt.Printf("Welcome to %v booking application.\nWe have total of %v tickets and %v are still available.\nGet your tickets here to attend\n", conferenceName, conferenceTickets, remainingTickets)
 
