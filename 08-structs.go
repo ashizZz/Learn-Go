@@ -8,7 +8,7 @@ import (
 const conferenceTickets int = 50
 
 var remainingTickets uint = 50
-var conferenceName = "Go Conference"
+var conferenceName = "ashizZz'sConference"
 var bookings = make([]User, 0)
 
 type User struct {
